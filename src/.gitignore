@@ -1,0 +1,21 @@
+
+# Java - kompilerte filer
+*.class
+*.jar
+*.log
+
+# Mapper med kompilerte filer
+bin/
+out/
+build/
+target/
+
+# VS Code - lokale innstillinger
+.vscode/
+
+# JavaFX SDK
+javafx-sdk/
+
+# Operativsystem
+.DS_Store
+Thumbs.db
